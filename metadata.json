@@ -1,0 +1,5 @@
+{
+  "name": "Class Schedule Comparator",
+  "description": "A web application to visually compare two class schedules side-by-side in a weekly calendar view, highlighting overlaps and free time.",
+  "requestFramePermissions": []
+}
